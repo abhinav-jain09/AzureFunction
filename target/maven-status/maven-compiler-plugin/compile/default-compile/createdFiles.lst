@@ -1,0 +1,13 @@
+com\ns\rivier\tokenvault\config\AppConfiguration.class
+com\ns\rivier\tokenvault\request\AllowRequest.class
+com\ns\rivier\tokenvault\outerclass.class
+com\ns\rivier\tokenvault\outerclass$innerclass.class
+com\ns\rivier\tokenvault\repository\SaveAllowRepository.class
+com\ns\rivier\tokenvault\Entity\AllowList$AllowListBuilder.class
+com\ns\rivier\tokenvault\AllowHandler.class
+com\ns\rivier\tokenvault\Entity\Services.class
+com\ns\rivier\tokenvault\Hello.class
+com\ns\rivier\tokenvault\config\AppConfiguration$ResponseDiagnosticsProcessorImplementation.class
+com\ns\rivier\tokenvault\Entity\AllowList.class
+com\ns\rivier\tokenvault\TokenvaultApplication.class
+com\ns\rivier\tokenvault\Entity\Services$ServicesBuilder.class
