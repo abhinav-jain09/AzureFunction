@@ -7,12 +7,13 @@ import org.springframework.context.annotation.Bean;
 @SpringBootApplication
 public class TokenvaultApplication {
 
+
 	public static void main(String[] args) {
 		SpringApplication.run(TokenvaultApplication.class, args);
 	}
 	@Bean
-	public Hello hello() {
-		return new Hello();
-	}
+	public AddUser hello() {
 
+		return new AddUser();
+	}
 }
