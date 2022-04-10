@@ -44,3 +44,7 @@ obj/
 reports/
 node_modules/
 package-lock.json
+
+HELP.md
+mvnw
+mvnw.cmd

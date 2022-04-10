@@ -1,8 +1,7 @@
-C:\workspace\ns\AzureFunction\src\main\java\com\ns\rivier\tokenvault\AddUser.java
-C:\workspace\ns\AzureFunction\src\main\java\com\ns\rivier\tokenvault\outerclass.java
-C:\workspace\ns\AzureFunction\src\main\java\com\ns\rivier\tokenvault\Services.java
-C:\workspace\ns\AzureFunction\src\main\java\com\ns\rivier\tokenvault\handler\AllowHandler.java
-C:\workspace\ns\AzureFunction\src\main\java\com\ns\rivier\tokenvault\SaveAllowRepository.java
-C:\workspace\ns\AzureFunction\src\main\java\com\ns\rivier\tokenvault\AllowRequest.java
-C:\workspace\ns\AzureFunction\src\main\java\com\ns\rivier\tokenvault\AllowList.java
-C:\workspace\ns\AzureFunction\src\main\java\com\ns\rivier\tokenvault\TokenvaultApplication.java
+/Users/abhinav/development/workspace/ns/tokenvault/src/main/java/com/ns/rivier/tokenvault/Services.java
+/Users/abhinav/development/workspace/ns/tokenvault/src/main/java/com/ns/rivier/tokenvault/AllowList.java
+/Users/abhinav/development/workspace/ns/tokenvault/src/main/java/com/ns/rivier/tokenvault/handler/AllowHandler.java
+/Users/abhinav/development/workspace/ns/tokenvault/src/main/java/com/ns/rivier/tokenvault/TokenvaultApplication.java
+/Users/abhinav/development/workspace/ns/tokenvault/src/main/java/com/ns/rivier/tokenvault/AllowRequest.java
+/Users/abhinav/development/workspace/ns/tokenvault/src/main/java/com/ns/rivier/tokenvault/AddUser.java
+/Users/abhinav/development/workspace/ns/tokenvault/src/main/java/com/ns/rivier/tokenvault/SaveAllowRepository.java

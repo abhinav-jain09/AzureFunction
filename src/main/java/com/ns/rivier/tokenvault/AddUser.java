@@ -2,6 +2,7 @@ package com.ns.rivier.tokenvault;
 
 import org.springframework.beans.factory.annotation.Autowired;
 
+import java.util.Collections;
 import java.util.function.Function;
 
 /**
@@ -20,9 +21,12 @@ private SaveAllowRepository saveAllowRepository;
 
     @Override
     public String apply(AllowList allowList) {
-
-     AllowList resultAllowList =  saveAllowRepository.save(allowList);
-     return resultAllowList.getId();
+     String entityAlreadyExist = String.valueOf(saveAllowRepository.findAllById(Collections.singleton(allowList.getId())));
+        if(entityAlreadyExist != null){
+            AllowList resultAllowList =  saveAllowRepository.save(allowList);
+            resultAllowList.getId();
+        }
+     return "entity already exist";
 
     }
 
