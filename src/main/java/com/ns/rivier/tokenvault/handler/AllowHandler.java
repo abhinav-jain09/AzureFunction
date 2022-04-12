@@ -1,4 +1,5 @@
 package com.ns.rivier.tokenvault.handler;
+import com.azure.cosmos.implementation.BadRequestException;
 import com.google.gson.Gson;
 import com.microsoft.azure.functions.ExecutionContext;
 import com.microsoft.azure.functions.HttpMethod;
